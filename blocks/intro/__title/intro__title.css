@@ -1,5 +1,4 @@
 .intro__title {
-    display: inline;
     width: 690px;
     height: 58px;
     margin: 0;
@@ -8,5 +7,4 @@
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
-    color: #FFFFFF;
 }

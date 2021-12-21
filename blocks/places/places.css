@@ -1,0 +1,10 @@
+.places {
+    border: 1px solid lightblue;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    max-width: 984px;
+    min-height: 3392px;
+    gap: 80px;
+}

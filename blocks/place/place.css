@@ -1,0 +1,13 @@
+.place {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(3, auto);
+    grid-auto-flow: column;
+    max-width: 984px;
+    min-height: 584px;
+    gap: 40px;
+    grid-template-areas:
+    "place__title place__website"
+    "place__image place__paragraph"
+    "place__image place__paragraph";
+}

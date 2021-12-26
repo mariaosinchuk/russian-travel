@@ -1,0 +1,8 @@
+.place__text {
+    grid-area: text;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    margin: 0;
+    padding: 0;
+}

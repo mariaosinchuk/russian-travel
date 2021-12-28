@@ -6,5 +6,18 @@
     align-items: center;
     flex-direction: column;
     max-width: 984px;
-    height: 1005px;
+    min-height: 1005px;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        min-height: 962px;
+    }
+} 
+
+@media screen and (max-width: 768px) {
+    .lead {
+       max-width: 768px;
+       min-height: 862px;
+    }
+} 

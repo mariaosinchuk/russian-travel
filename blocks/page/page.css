@@ -1,21 +1,9 @@
 .page {
+    position: relative;
+    margin: 0 auto;
     font-family: 'Inter', sans-serif;
-    padding: 28px 48px;
     background-color: #2A2C2F;
     min-width: 320px;
+    max-width: 1280px;
     color: #fff;
 }
-
-@media screen and (max-width: 768px) {
-    .page {
-        padding-left: 24px;
-        padding-right: 24px;
-    }
-} 
-
-@media screen and (max-width: 320px) {
-    .page {
-        padding-left: 16px;
-        padding-right: 16px;
-    }
-} 

@@ -9,7 +9,7 @@
     min-height: 1005px;
 }
 
-@media screen and (max-width: 1024px) {
+/*@media screen and (max-width: 1024px) {
     .lead {
         min-height: 962px;
     }
@@ -20,4 +20,4 @@
        max-width: 768px;
        min-height: 862px;
     }
-} 
+}*/

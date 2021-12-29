@@ -8,3 +8,17 @@
     align-items: center;
     justify-content: flex-end;
 }
+
+/*@media screen and (max-width: 1024px) {
+    .page {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+} 
+
+@media screen and (max-width: 320px) {
+    .page {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}*/

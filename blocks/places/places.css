@@ -7,3 +7,10 @@
     min-height: 3392px;
     gap: 80px;
 }
+
+@media screen and (max-width: 1024px) {
+    .places {
+        max-width: 928px;
+        min-height: 3292px;
+    }
+}

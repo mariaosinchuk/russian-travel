@@ -12,3 +12,15 @@
     "image text"
     "image .";
 }
+
+@media screen and (max-width: 1024px) {
+    .place {
+        max-width: 928px;
+        min-height: 564px;
+        column-gap: 32px;
+        grid-template-rows: repeat(2, auto);
+        grid-template-areas:
+        "title website"
+        "image text";
+ }
+}

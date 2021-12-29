@@ -2,6 +2,25 @@
     width: 176;
     height: 52;
     position: absolute;
-    top: 0;
+    top: 28px;
     left: 0;
 }
+
+@media screen and (max-width: 1024px) {
+    .header__logo {
+        left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__logo {
+        left: 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header__logo {
+        left: 16px;
+    }
+}
+

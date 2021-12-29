@@ -10,3 +10,9 @@
     text-align: center;
     color: #fff;
  }
+ 
+ @media screen and (max-width: 1190px) {
+    .cover__title {
+        margin-top: 195px;
+    }
+}

@@ -24,3 +24,10 @@
         "image text";
  }
 }
+
+@media screen and (max-width: 1024px) {
+    .place {
+        max-width: 720px;
+        column-gap: 28px;
+ }
+}

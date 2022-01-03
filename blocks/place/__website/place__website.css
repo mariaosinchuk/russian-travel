@@ -2,7 +2,7 @@
     align-self: end;
     grid-area: website;
     max-width: 456px;
-    min-height: 46px;
+    /*min-height: 46px;*/
     display: flex;
     flex-direction: column;
 }
@@ -17,5 +17,6 @@
     .place__website {
         max-width: 352px;
         min-height: 46px;
+        margin: 0;
     }
 } 

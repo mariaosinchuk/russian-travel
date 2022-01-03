@@ -9,7 +9,7 @@
     justify-content: flex-end;
 }
 
-@media screen and (max-width: 1024px) {
+/*@media screen and (max-width: 1024px) {
     .header {
         padding-left: 48px;
         padding-right: 48px;
@@ -30,5 +30,6 @@
         padding-left: 16px;
         padding-right: 16px;
         padding-top: 16px;
+        max-width: 288px;
     }
-}
+}*/

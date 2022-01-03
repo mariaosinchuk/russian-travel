@@ -4,22 +4,26 @@
     display: flex;
     flex-direction: column;
     max-width: 984px;
-    min-height: 3392px;
     gap: 80px;
 }
 
 @media screen and (max-width: 1024px) {
     .places {
         max-width: 928px;
-        min-height: 3292px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .places {
         max-width: 720px;
-        min-height: 2808px;
         margin-top: 88px;
         gap: 72px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        max-width: 320px;
+        gap: 50px;
     }
 }

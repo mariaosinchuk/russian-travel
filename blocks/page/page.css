@@ -1,5 +1,6 @@
 .page {
     position: relative;
+    align-items: center;
     margin: 0 auto;
     font-family: 'Inter', sans-serif;
     min-width: 320px;

@@ -19,3 +19,11 @@
         margin-top: 90px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .cover {
+        max-width: 320px;
+        min-height: 200px;
+        margin-top: 66px;
+    }
+}

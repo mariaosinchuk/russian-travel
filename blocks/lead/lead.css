@@ -6,27 +6,23 @@
     align-items: center;
     flex-direction: column;
     max-width: 984px;
-    min-height: 1005px;
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
         margin-top: 48px;
         max-width: 928px;
-        min-height: 962px;
     }
 } 
 
 @media screen and (max-width: 768px) {
     .lead {
-        max-width: 768px;
-        min-height: 862px;        
+        max-width: 768px;    
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead {  
         max-width: 320px;
-        min-height: 406px;
     }
 }

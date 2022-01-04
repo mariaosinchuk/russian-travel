@@ -23,7 +23,7 @@
     }
 } 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
     .footer__copyright {
         position: unset;
         margin-top: 16px;

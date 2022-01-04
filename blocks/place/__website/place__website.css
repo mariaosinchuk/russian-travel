@@ -2,7 +2,6 @@
     align-self: end;
     grid-area: website;
     max-width: 456px;
-    /*min-height: 46px;*/
     display: flex;
     flex-direction: column;
 }
@@ -24,4 +23,5 @@
 @media screen and (max-width: 320px) {
     .place__website {
         padding-left: 16px;
+}
 }

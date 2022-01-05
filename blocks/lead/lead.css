@@ -6,16 +6,19 @@
     align-items: center;
     flex-direction: column;
     max-width: 984px;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
         margin-top: 48px;
+        /*padding-left: 48px;
+        padding-right: 48px;*/
         max-width: 928px;
     }
 } 
 
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 948px) {
     .lead {
         max-width: 768px;    
     }
@@ -25,4 +28,4 @@
     .lead {  
         max-width: 320px;
     }
-}
+}*/
